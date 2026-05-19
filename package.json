@@ -1,6 +1,6 @@
 {
   "name": "cron-next",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Compute the next or previous occurrence of a 5-field cron expression. Zero dependencies, local or UTC.",
   "keywords": [
     "cron",
