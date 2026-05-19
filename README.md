@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/cron-next/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/cron-next/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/cron-next.svg)](https://www.npmjs.com/package/cron-next)
+[![downloads](https://img.shields.io/npm/dm/cron-next.svg)](https://www.npmjs.com/package/cron-next)
+[![bundle](https://img.shields.io/bundlejs/size/cron-next)](https://bundlejs.com/?q=cron-next)
+
 Compute the next or previous occurrence of a 5-field cron expression. Local or UTC. Zero dependencies.
 
 ```ts
