@@ -1,5 +1,7 @@
 # cron-next
 
+[![ci](https://github.com/p-vbordei/cron-next/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/cron-next/actions/workflows/ci.yml)
+
 Compute the next or previous occurrence of a 5-field cron expression. Local or UTC. Zero dependencies.
 
 ```ts
